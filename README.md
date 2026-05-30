@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido com o objetivo de praticar análise de dados utilizando o Microsoft Excel, explorando informações reais do Campeonato Brasileiro Série A 2024.
 
-Os dados foram obtidos através de um dataset público contendo resultados das partidas, gols marcados, gols sofridos e resultados dos jogos.
+Os dados foram obtidos através de um dataset público contendo resultados das partidas, gols marcados, gols sofridos e resultados dos jogos no kaggle.
 
 O projeto busca responder perguntas relevantes sobre o desempenho das equipes ao longo da competição através de tabelas dinâmicas, gráficos e dashboard interativo.
 
@@ -79,18 +79,11 @@ para cada equipe durante a temporada.
 
 ---
 
-## 📸 Dashboard
-
-
-![Dashboard](dashboard.png)
-
----
-
 ## 📁 Dataset
 
 Fonte dos dados:
 
-https://www.football-data.co.uk/
+https://www.kaggle.com/datasets/gabrielmeireles/brazilian-football-championship
 
 Arquivo utilizado:
 
