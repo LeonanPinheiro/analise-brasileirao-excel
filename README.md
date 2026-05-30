@@ -81,9 +81,8 @@ para cada equipe durante a temporada.
 
 ## 📸 Dashboard
 
-Adicione aqui uma captura de tela do dashboard final:
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
